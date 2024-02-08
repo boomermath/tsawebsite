@@ -36,7 +36,7 @@ export default function Page() {
     <img src="https://mscresearch.itc.utwente.nl/sites/default/files/styles/fluid/public/2023-01/ARS_Geothermal.jpeg?itok=x4PVHxA9" alt="Geothermal Power"/>
   </section>
   <footer style={{bottom:0}}>
-    <p>&copy; 2023 Energi - All rights reserved</p>
+    <p> 2023 Energi - All rights reserved</p>
   </footer>
         </>
     )

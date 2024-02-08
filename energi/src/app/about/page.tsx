@@ -31,7 +31,7 @@ export default function Page() {
     </div>
   </section>
   <footer>
-    <p>&copy; 2023 Energi - All rights reserved</p>
+    <p> 2023 Energi - All rights reserved</p>
   </footer>
         </>
     )
