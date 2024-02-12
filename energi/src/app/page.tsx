@@ -1,4 +1,3 @@
-import Image from "next/image";
 import "./home.css"
 export default function Home() {
   return (
@@ -11,10 +10,10 @@ export default function Home() {
     <a href="/about">About Us</a>
     <a href="/products">Solutions</a>
     <a href="/contact">Contact</a>
-    <a href="/credits">Credits</a>
+    <a href="/docs">Documentation</a>
   </nav>
-  <section>
-    <h2>Welcome to Energi</h2>
+      <section>
+        <h2>Welcome to Energi</h2>
     <p>Providing sustainable and renewable energy solutions from local sources.</p>
     <h3>Our Unique Green Energy Solutions:</h3>
     <ul>
