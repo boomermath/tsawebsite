@@ -11,11 +11,11 @@ export default function Page() {
     <a href="/about">About Us</a>
     <a href="/products">Solutions</a>
     <a href="/contact">Contact</a>
-    <a href="/credits">Credits</a>
+    <a href="/docs">Documentation</a>
 
   </nav>
-  <section>
-    <h2>Get in Touch</h2>
+          <section>
+            <h2>Get in Touch</h2>
     <p>If you have any questions or inquiries about our green energy solutions, please feel free to contact us using the information below:</p>
     <div>
       <strong>Energi Headquarters</strong><br/>

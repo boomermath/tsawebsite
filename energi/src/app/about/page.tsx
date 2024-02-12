@@ -11,9 +11,9 @@ export default function Page() {
     <a href="/about">About Us</a>
     <a href="/products">Solutions</a>
     <a href="/contact">Contact</a>
-    <a href="/credits">Credits</a>
+    <a href="/docs">Documentation</a>
   </nav>
-  <section class="profile-container">
+          <section class="profile-container">
     <div class="profile">
       <img src="https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="John Doe"/>
       <h3>John Doe</h3>

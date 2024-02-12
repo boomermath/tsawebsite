@@ -11,11 +11,11 @@ export default function Page() {
     <a href="/about">About Us</a>
     <a href="/products">Solutions</a>
     <a href="/contact">Contact</a>
-    <a href="/credits">Credits</a>
+    <a href="/docs">Documentation</a>
 
   </nav>
-  <section>
-    <h2>Explore Our Green Energy Solutions</h2>
+          <section>
+            <h2>Explore Our Green Energy Solutions</h2>
     <h3>Solar Power</h3>
     <p>The solar panels are designed to efficiently capture sunlight and convert it into electricity, offering a sustainable and cost-effective energy solution for residential and commercial use.</p>
     <h3>Hydroelectric Power</h3>
